@@ -12,7 +12,7 @@ module.exports = {
       { text: "Vue3", link: "/vue3/" },
       { text: "VuePress", link: "/vuepress/" },
       { text: "JS", link: "/JS/" },
-      { text: 'Github', link: 'https://github.com/dingtaogo/digitalchina-frontend.github.io'}
+      { text: 'Github', link: 'https://github.com/dingtaogo/digitalchina-frontend.github.io' }
     ],
     sidebar: {
       //对象的默认路径
@@ -30,6 +30,7 @@ module.exports = {
         ga: "UA-226963490-2",
       },
     ],
-    ['@vuepress/back-to-top']
+    ['@vuepress/back-to-top'],
+    ['fulltext-search'],
   ],
 };
