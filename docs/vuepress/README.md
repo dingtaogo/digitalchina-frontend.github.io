@@ -27,5 +27,18 @@ VuePress 由两部分组成：第一部分是一个[极简静态网站生成器]
 - [模板语法](https://vuepress.vuejs.org/zh/guide/using-vue.html#%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95)
 - [使用组件](https://vuepress.vuejs.org/zh/guide/using-vue.html#%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6)
 
+Vue驱动的自定义主题系统
+
+- [网站和页面的元数据](https://vuepress.vuejs.org/zh/theme/writing-a-theme.html#%E7%BD%91%E7%AB%99%E5%92%8C%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%85%83%E6%95%B0%E6%8D%AE)
+- [内容摘抄](https://vuepress.vuejs.org/zh/theme/writing-a-theme.html#%E5%86%85%E5%AE%B9%E6%91%98%E6%8A%84)
+
+默认主题
+
+- Responsive layout
+- [首页](https://vuepress.vuejs.org/zh/theme/default-theme-config.html#%E9%A6%96%E9%A1%B5)
+
+
+#### [在 GitHub上编辑此页](https://github.com/dingtaogo/digitalchina-frontend.github.io)<span style="margin-top: 0; float: right;font-size: 14px;">上次更新: 11/29/2021, 7:08:57 AM</span> 
+
 
 
